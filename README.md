@@ -33,3 +33,6 @@ or download from https://github.com/jlaceda/lets-live
 
 ## Team Members
 - Martin Macandog (Marty), John Laceda, Alex Poplawski, Youngju Lee (Lucy)
+
+## Demo
+- ![Alt text](assets/images/demo.png?raw=true  "demo") 
